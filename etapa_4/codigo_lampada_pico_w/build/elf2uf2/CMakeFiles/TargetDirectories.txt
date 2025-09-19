@@ -1,0 +1,5 @@
+/home/pedro/BitDogLab-C/neopixel_pio/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/home/pedro/BitDogLab-C/neopixel_pio/build/elf2uf2/CMakeFiles/edit_cache.dir
+/home/pedro/BitDogLab-C/neopixel_pio/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/home/pedro/BitDogLab-C/neopixel_pio/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+/home/pedro/BitDogLab-C/neopixel_pio/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
