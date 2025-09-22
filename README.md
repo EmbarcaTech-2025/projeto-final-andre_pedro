@@ -14,13 +14,13 @@ O SonoFree Mini é um interruptor inteligente que utiliza tecnologia mmWave (24G
 - Encapsulamento compacto impresso em 3D
 
 **Caminhos:**
-[Documentação](etapa_4/relatorio_tecnico.pdf)
-[Código fonte](etapa_4/codigo_esp32/sonofree.ino)
-[Modelo 3D](etapa_4/Part%Studio%1)
-[Lâmpada simulada (BitDogLab)](etapa_4/codigo_lampada_pico_w)
-[Imagens e vídeos](etapa_4/imagens_e_videos)
-[Apresetnção técnica](etapa_4/slides/sonofree_mini_tecnica.pdf)
-[Elevator pitch](etapa_4/slides/sonofree_mini_pitch.pdf)
+- [Documentação](etapa_4/relatorio_tecnico.pdf)
+- [Código fonte](etapa_4/codigo_esp32/sonofree.ino)
+- [Modelo 3D](etapa_4/Part%Studio%1)
+- [Lâmpada simulada (BitDogLab)](etapa_4/codigo_lampada_pico_w)
+- [Imagens e vídeos](etapa_4/imagens_e_videos)
+- [Apresetnção técnica](etapa_4/slides/sonofree_mini_tecnica.pdf)
+- [Elevator pitch](etapa_4/slides/sonofree_mini_pitch.pdf)
 
 ## Arquitetura
 
